@@ -24,4 +24,4 @@ def square():
 square()
 qazi_turtle.forward(200)
 square()
-
+as
